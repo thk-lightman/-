@@ -3,9 +3,12 @@
 </h1>
 # [KAGGLE]
 
-|  #   | KAGGLE  | Difficulty |                            Source                            |      TAGS      |
-| :--: | :-----: | :--------: | :----------------------------------------------------------: | :------------: |
-|  [1](https://github.com/thk-lightman/Transciption-over-Desperation/blob/master/01%5BTITIANIC%5D_Introduction%20to%20Ensembling%2C%20Stacking%20in%20Python.ipynb)   | TITANIC |    Lv1     | [Titanic Best Working Classfier](https://www.kaggle.com/sinakhorami/titanic/titanic-best-working-classifier) | classification |
+|                              #                               |                            KAGGLE                            | Difficulty | Source |      TAGS      |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: | :----: | :------------: |
+| [1](https://github.com/thk-lightman/Transciption-over-Desperation/blob/master/01%5BTITIANIC%5D_Introduction%20to%20Ensembling%2C%20Stacking%20in%20Python.ipynb) |         [Titanic](https://www.kaggle.com/c/titanic)          |    Lv1     |        | classification |
+|                              2                               | [Restaurant Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting) |    Lv3     |        |  Time Series   |
+|                              3                               | [2019 2nd ML month](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr/overview) |    Lv1     |        |   Regression   |
+|                                                              |                                                              |            |        |                |
 
 # [Deep Learning]
 
