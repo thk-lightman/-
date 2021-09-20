@@ -1,2 +1,2 @@
-# 2시 데이터, DieTanic
+# 2시 데이터, DieTanicc
   
